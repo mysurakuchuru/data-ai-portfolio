@@ -5,6 +5,7 @@ Source for a responsive, dependency-free terminal portfolio focused on data engi
 ## Experience
 
 - Terminal résumé structure with a persistent table of contents
+- Cinematic, skippable terminal boot sequence with repeat-visit detection
 - Premium dark and light themes
 - Filterable project index and keyboard command palette
 - Accessible navigation and reduced-motion support
